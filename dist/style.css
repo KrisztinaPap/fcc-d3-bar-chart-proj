@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    font-family: 'Prompt', sans-serif;
+    font-size: 2rem;
+}
+
+#tooltip {
+    padding: 1rem;
+    font-weight: 500;
+}
+
+svg {
+    background-color: white;
+}
